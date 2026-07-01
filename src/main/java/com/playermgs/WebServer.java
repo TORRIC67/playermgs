@@ -46,7 +46,11 @@ public class WebServer {
 
         Database.initSchema();   // creates H2 tables + seeds demo rows on first run
 
-        HttpServer server = HttpServer.create(new InetSocketAddress(PORT), 0);
+        int port = System.getenv("PORT") != null
+                ? Integer.parseInt(System.getenv("PORT"))
+                : PORT;
+
+        HttpServer server = HttpServer.create(new InetSocketAddress(port), 0);
 
         // ── Serve the frontend ──────────────────────────────
         server.createContext("/", new StaticFileHandler());
@@ -61,7 +65,7 @@ public class WebServer {
 
         System.out.println("═══════════════════════════════════════════");
         System.out.println("  PlayerMS server running");
-        System.out.println("  Open: http://localhost:" + PORT);
+        System.out.println("  Open: http://localhost:" + port);
         System.out.println("═══════════════════════════════════════════");
     }
 
