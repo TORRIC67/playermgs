@@ -40,7 +40,7 @@ public class WebServer {
 
     private static final Gson      gson = new Gson();
     private static final ApiRouter api  = ApiRouter.getInstance();
-    private static final int       PORT = 8081;
+    private static final int       PORT = Integer.parseInt(System.getenv().getOrDefault("PORT", "8081"));
 
     public static void main(String[] args) throws IOException {
 

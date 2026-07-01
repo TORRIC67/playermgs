@@ -1,9 +1,0 @@
-FROM openjdk:17
-
-WORKDIR /app
-
-COPY . .
-
-RUN javac -d out $(find src/main/java -name "*.java")
-
-CMD ["java", "-cp", "out", "com.playermgs.Main"]
