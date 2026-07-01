@@ -1,0 +1,10 @@
+2026-07-01 03:16:40.950310+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE IF NOT EXISTS market_value_history (\000a    id          BIGINT AUTO_INCREMENT PRIMARY KEY,\000a    player_id   BIGINT NOT NULL,\000a    [*]value       DOUBLE NOT NULL,\000a    recorded_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,\000a    FOREIGN KEY (player_id) REFERENCES players(id) ON DELETE CASCADE\000a)\000a"; expected "identifier"; SQL statement:
+CREATE TABLE IF NOT EXISTS market_value_history (
+    id          BIGINT AUTO_INCREMENT PRIMARY KEY,
+    player_id   BIGINT NOT NULL,
+    value       DOUBLE NOT NULL,
+    recorded_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (player_id) REFERENCES players(id) ON DELETE CASCADE
+)
+ [42001-224]
