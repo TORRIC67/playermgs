@@ -1,0 +1,392 @@
+2026.07.01 03:04:25 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\MR SALVATORY\Desktop\playermgs' for client Visual Studio Code 1.126.0.
+2026.07.01 03:04:25 INFO  time: initialize in 0.15s
+2026.07.01 03:04:25 INFO  Memory monitor started
+2026.07.01 03:04:30 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.07.01 03:04:30 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\aa.java. Using fallback presentation compiler.
+Jul 01, 2026 3:04:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.07.01 03:04:32 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\aa.java. Using fallback presentation compiler.
+2026.07.01 03:04:32 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\aa.java. Using fallback presentation compiler.
+2026.07.01 03:04:32 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\aa.java. Using fallback presentation compiler.
+2026.07.01 03:04:33 WARN  no build tool detected in workspace 'C:\Users\MR SALVATORY\Desktop\playermgs'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.07.01 03:04:33 WARN  Build server is not auto-connectable.
+2026.07.01 03:04:33 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\cc.java
+2026.07.01 03:04:33 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\aa.java
+2026.07.01 03:04:33 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\bb.java
+2026.07.01 03:04:33 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\aa.java. Using fallback presentation compiler.
+2026.07.01 03:04:34 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\aa.java. Using fallback presentation compiler.
+Jul 01, 2026 3:04:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2026.07.01 03:04:35 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\aa.java
+2026.07.01 03:04:35 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\aa.java. Using fallback presentation compiler.
+2026.07.01 03:04:38 INFO  Created report: Optional[file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/controller/aa.java]
+2026.07.01 03:04:38 INFO  QDox parse error in file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/controller/aa.java (full report at: "C:\Users\MR SALVATORY\Desktop\playermgs\.metals\.reports\metals-full\2026-07-01\r_qdox-error_03-04-36-778.md")
+2026.07.01 03:04:41 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/controller/cc.java. Output:
+
+2026.07.01 03:04:45 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/controller/bb.java. Output:
+
+2026.07.01 03:04:45 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\aa.java. Using fallback presentation compiler.
+2026.07.01 03:04:45 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\aa.java. Using fallback presentation compiler.
+2026.07.01 03:04:49 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/controller/aa.java. Output:
+
+2026.07.01 03:04:51 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\aa.java. Using fallback presentation compiler.
+2026.07.01 03:04:51 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\aa.java
+2026.07.01 03:04:52 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\aa.java. Using fallback presentation compiler.
+2026.07.01 03:04:53 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/controller/aa.java. Output:
+
+2026.07.01 03:04:53 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\aa.java. Using fallback presentation compiler.
+Jul 01, 2026 3:04:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22
+Jul 01, 2026 3:04:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+2026.07.01 03:04:55 INFO  no build target found for c:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\aa.java. Using fallback presentation compiler.
+Jul 01, 2026 3:04:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+2026.07.01 03:04:56 INFO  no build target found for c:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\aa.java. Using fallback presentation compiler.
+2026.07.01 03:04:57 INFO  no build target found for c:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\aa.java. Using fallback presentation compiler.
+Jul 01, 2026 3:04:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+Jul 01, 2026 3:04:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25
+Jul 01, 2026 3:04:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24
+Jul 01, 2026 3:04:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28
+2026.07.01 03:04:59 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\PlayerController.java
+2026.07.01 03:04:59 INFO  no build target found for c:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\aa.java. Using fallback presentation compiler.
+2026.07.01 03:05:03 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/controller/PlayerController.java. Output:
+
+2026.07.01 03:05:03 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\PlayerController.java. Using fallback presentation compiler.
+Jul 01, 2026 3:05:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30
+2026.07.01 03:05:03 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\PlayerController.java. Using fallback presentation compiler.
+2026.07.01 03:05:03 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\PlayerController.java. Using fallback presentation compiler.
+2026.07.01 03:05:03 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\PlayerController.java. Using fallback presentation compiler.
+2026.07.01 03:05:04 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\PlayerController.java. Using fallback presentation compiler.
+2026.07.01 03:05:05 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\PlayerController.java. Using fallback presentation compiler.
+2026.07.01 03:05:08 INFO  restarted 1 presentation compiler
+2026.07.01 03:05:26 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\PlayerController.java. Using fallback presentation compiler.
+2026.07.01 03:05:34 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\bb.java. Using fallback presentation compiler.
+2026.07.01 03:05:34 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\bb.java
+Jul 01, 2026 3:05:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42
+2026.07.01 03:05:34 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\bb.java. Using fallback presentation compiler.
+2026.07.01 03:05:34 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\bb.java. Using fallback presentation compiler.
+2026.07.01 03:05:35 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\bb.java. Using fallback presentation compiler.
+2026.07.01 03:05:36 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\bb.java. Using fallback presentation compiler.
+2026.07.01 03:05:36 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\bb.java. Using fallback presentation compiler.
+2026.07.01 03:05:38 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\bb.java. Using fallback presentation compiler.
+2026.07.01 03:05:38 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\bb.java. Using fallback presentation compiler.
+2026.07.01 03:05:38 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\bb.java
+2026.07.01 03:05:38 INFO  Created report: Optional[file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/controller/bb.java]
+2026.07.01 03:05:38 INFO  QDox parse error in file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/controller/bb.java (full report at: "C:\Users\MR SALVATORY\Desktop\playermgs\.metals\.reports\metals-full\2026-07-01\r_qdox-error_03-05-38-836.md")
+2026.07.01 03:05:39 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/controller/bb.java. Output:
+
+2026.07.01 03:05:39 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\bb.java. Using fallback presentation compiler.
+2026.07.01 03:05:40 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\bb.java. Using fallback presentation compiler.
+2026.07.01 03:05:40 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\bb.java. Using fallback presentation compiler.
+2026.07.01 03:05:40 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\bb.java. Using fallback presentation compiler.
+Jul 01, 2026 3:05:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 59
+2026.07.01 03:05:40 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\bb.java. Using fallback presentation compiler.
+2026.07.01 03:05:42 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\bb.java
+2026.07.01 03:05:42 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\bb.java. Using fallback presentation compiler.
+2026.07.01 03:05:43 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/controller/bb.java. Output:
+
+2026.07.01 03:05:44 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\TeamController.java. Using fallback presentation compiler.
+2026.07.01 03:05:44 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\TeamController.java
+2026.07.01 03:05:44 INFO  no build target found for c:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\bb.java. Using fallback presentation compiler.
+2026.07.01 03:05:45 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/controller/TeamController.java. Output:
+
+Jul 01, 2026 3:05:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 66
+2026.07.01 03:05:44 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\TeamController.java. Using fallback presentation compiler.
+2026.07.01 03:05:45 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\TeamController.java. Using fallback presentation compiler.
+2026.07.01 03:05:46 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\TeamController.java. Using fallback presentation compiler.
+Jul 01, 2026 3:05:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 69
+2026.07.01 03:05:48 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\TeamController.java. Using fallback presentation compiler.
+2026.07.01 03:05:55 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\cc.java
+2026.07.01 03:05:57 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\cc.java. Using fallback presentation compiler.
+2026.07.01 03:06:10 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\cc.java. Using fallback presentation compiler.
+2026.07.01 03:06:10 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\cc.java. Using fallback presentation compiler.
+2026.07.01 03:06:10 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\cc.java. Using fallback presentation compiler.
+2026.07.01 03:06:11 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/controller/cc.java. Output:
+
+2026.07.01 03:06:11 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\cc.java. Using fallback presentation compiler.
+2026.07.01 03:06:12 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\cc.java
+2026.07.01 03:06:11 INFO  time: code lens generation in 1.08s
+2026.07.01 03:06:12 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\cc.java. Using fallback presentation compiler.
+2026.07.01 03:06:12 INFO  no build target found for c:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\cc.java. Using fallback presentation compiler.
+2026.07.01 03:06:13 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\LeagueController.java
+2026.07.01 03:06:14 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/controller/LeagueController.java. Output:
+
+2026.07.01 03:06:14 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\LeagueController.java. Using fallback presentation compiler.
+2026.07.01 03:06:14 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\LeagueController.java. Using fallback presentation compiler.
+2026.07.01 03:06:14 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\LeagueController.java. Using fallback presentation compiler.
+2026.07.01 03:06:18 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\LeagueController.java. Using fallback presentation compiler.
+2026.07.01 03:06:31 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\LeagueController.java. Using fallback presentation compiler.
+2026.07.01 03:06:33 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\LeagueController.java. Using fallback presentation compiler.
+2026.07.01 03:06:33 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\LeagueController.java. Using fallback presentation compiler.
+2026.07.01 03:06:42 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java
+2026.07.01 03:06:42 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:06:43 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+Jul 01, 2026 3:06:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 110
+2026.07.01 03:06:43 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:06:43 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/controller/ApiRouter.java. Output:
+
+2026.07.01 03:06:43 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:06:43 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:06:44 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:06:44 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:06:47 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:06:47 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+Jul 01, 2026 3:06:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 122
+2026.07.01 03:06:47 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:06:49 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+Jul 01, 2026 3:06:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 125
+2026.07.01 03:06:51 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java
+2026.07.01 03:06:51 INFO  Created report: Optional[file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/controller/ApiRouter.java]
+2026.07.01 03:06:51 INFO  QDox parse error in file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/controller/ApiRouter.java (full report at: "C:\Users\MR SALVATORY\Desktop\playermgs\.metals\.reports\metals-full\2026-07-01\r_qdox-error_03-06-51-282.md")
+2026.07.01 03:06:51 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/controller/ApiRouter.java. Output:
+
+2026.07.01 03:06:59 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:06:59 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:06:59 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+Jul 01, 2026 3:07:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 132
+2026.07.01 03:07:02 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java
+2026.07.01 03:07:02 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:07:02 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/controller/ApiRouter.java. Output:
+
+2026.07.01 03:07:02 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:07:02 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:07:17 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:07:17 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java
+Jul 01, 2026 3:07:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 140
+2026.07.01 03:07:17 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:07:18 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+Jul 01, 2026 3:07:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 143
+2026.07.01 03:07:17 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:07:21 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:07:26 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:07:26 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:07:27 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:07:34 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:07:34 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:07:37 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:07:37 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:07:37 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:07:37 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:07:40 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:07:41 INFO  QDox parse error in file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/controller/ApiRouter.java (full report at: "C:\Users\MR SALVATORY\Desktop\playermgs\.metals\.reports\metals-full\2026-07-01\r_qdox-error_03-06-51-282.md")
+2026.07.01 03:07:41 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java
+2026.07.01 03:07:41 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:07:41 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/controller/ApiRouter.java. Output:
+
+Jul 01, 2026 3:07:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.07.01 03:08:21 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:08:21 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+Jul 01, 2026 3:08:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 173
+2026.07.01 03:08:21 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:08:22 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java
+2026.07.01 03:08:21 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:08:22 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/controller/ApiRouter.java. Output:
+
+Jul 01, 2026 3:08:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 176
+2026.07.01 03:08:23 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:08:23 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+Jul 01, 2026 3:08:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 178
+2026.07.01 03:08:23 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:08:23 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:08:38 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:08:42 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:08:44 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:08:52 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:08:52 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java. Using fallback presentation compiler.
+2026.07.01 03:09:09 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java
+2026.07.01 03:09:09 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+Jul 01, 2026 3:09:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 191
+2026.07.01 03:09:09 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:09:10 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+Jul 01, 2026 3:09:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 195
+2026.07.01 03:09:09 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:09:10 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/WebServer.java. Output:
+
+2026.07.01 03:09:11 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:09:13 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:09:13 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:09:14 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:09:18 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:09:18 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:09:22 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:09:22 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:09:23 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:09:23 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:09:32 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:09:36 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:09:40 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:09:40 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+Jul 01, 2026 3:09:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 214
+2026.07.01 03:09:53 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:09:54 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:09:54 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+Jul 01, 2026 3:09:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 218
+2026.07.01 03:10:10 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:10:13 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:10:15 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:10:23 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:10:26 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:10:29 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:10:30 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:10:30 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:10:33 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:10:38 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:10:38 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:10:40 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:11:54 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:11:57 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:11:57 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:11:59 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:13:10 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:13:11 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+Jul 01, 2026 3:13:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.07.01 03:14:04 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:16:51 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\dao\Database.java
+2026.07.01 03:16:51 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/dao/Database.java. Output:
+
+2026.07.01 03:16:51 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:16:58 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\dao\PlayerDao.java
+2026.07.01 03:16:58 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:16:59 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/dao/PlayerDao.java. Output:
+
+2026.07.01 03:17:09 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\dao\Database.java. Using fallback presentation compiler.
+2026.07.01 03:17:09 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\dao\PlayerDao.java. Using fallback presentation compiler.
+2026.07.01 03:17:09 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\dao\Database.java
+2026.07.01 03:17:10 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\dao\PlayerDao.java
+2026.07.01 03:17:10 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:17:10 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/dao/Database.java. Output:
+
+2026.07.01 03:17:11 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/dao/PlayerDao.java. Output:
+
+2026.07.01 03:17:15 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:17:19 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:17:32 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:17:38 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\dao\Database.java
+2026.07.01 03:17:38 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:17:38 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\dao\PlayerDao.java
+2026.07.01 03:17:41 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:17:43 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:17:44 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:17:49 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:17:52 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:18:26 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:22:46 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:22:49 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:24:17 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:24:17 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java
+2026.07.01 03:24:17 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:24:18 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:24:18 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:24:18 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:25:30 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:25:30 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java
+2026.07.01 03:25:30 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:25:30 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:25:30 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:25:31 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:26:58 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:30:41 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java
+2026.07.01 03:30:43 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/WebServer.java. Output:
+
+2026.07.01 03:33:40 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:43:34 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\MR SALVATORY\Desktop\playermgs' for client Visual Studio Code 1.126.0.
+2026.07.01 03:43:34 INFO  Memory monitor started
+2026.07.01 03:43:50 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.07.01 03:43:54 WARN  no build tool detected in workspace 'C:\Users\MR SALVATORY\Desktop\playermgs'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.07.01 03:43:54 WARN  Build server is not auto-connectable.
+2026.07.01 03:43:55 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\dao\PlayerDao.java
+2026.07.01 03:43:54 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\PlayerController.java
+2026.07.01 03:43:55 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\LeagueController.java
+2026.07.01 03:43:55 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\TeamController.java
+2026.07.01 03:43:55 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\dao\Database.java
+2026.07.01 03:43:55 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\controller\ApiRouter.java
+2026.07.01 03:44:00 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/dao/PlayerDao.java. Output:
+
+2026.07.01 03:44:01 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/controller/PlayerController.java. Output:
+
+2026.07.01 03:44:03 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/dao/Database.java. Output:
+
+2026.07.01 03:44:03 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/controller/ApiRouter.java. Output:
+
+2026.07.01 03:44:04 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/controller/LeagueController.java. Output:
+
+2026.07.01 03:44:05 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/controller/TeamController.java. Output:
+
+2026.07.01 03:46:17 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java
+2026.07.01 03:46:22 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/WebServer.java. Output:
+
+2026.07.01 03:48:33 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:48:33 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:48:34 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:48:40 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:48:43 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 03:49:15 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 04:02:43 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java
+2026.07.01 04:02:45 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/WebServer.java. Output:
+
+2026.07.01 04:02:52 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 04:02:52 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java
+2026.07.01 04:02:54 WARN  Running javac-semanticdb failed for file:///C:/Users/MR%20SALVATORY/Desktop/playermgs/src/main/java/com/playermgs/WebServer.java. Output:
+
+2026.07.01 04:04:33 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java
+2026.07.01 04:13:40 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 04:13:42 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 04:13:43 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java
+Jul 01, 2026 4:13:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2026.07.01 04:13:43 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+Jul 01, 2026 4:13:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2026.07.01 04:13:43 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 04:13:44 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 04:13:45 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 04:13:45 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 04:13:45 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 04:13:49 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 04:14:06 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 04:14:15 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 04:14:21 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java
+2026.07.01 04:14:21 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 04:14:22 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 04:14:22 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 04:14:23 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 04:14:26 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 04:14:29 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 04:14:30 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 04:14:30 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 04:14:33 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 04:14:33 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 04:14:39 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 04:14:39 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 04:14:50 INFO  no build target found for C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\WebServer.java. Using fallback presentation compiler.
+2026.07.01 16:49:39 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\MR SALVATORY\Desktop\playermgs' for client Visual Studio Code 1.126.0.
+2026.07.01 16:49:39 INFO  Memory monitor started
+2026.07.01 16:49:50 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.07.01 16:49:52 WARN  no build tool detected in workspace 'C:\Users\MR SALVATORY\Desktop\playermgs'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.07.01 16:49:52 WARN  Build server is not auto-connectable.
+2026.07.01 16:49:53 WARN  no build target for: C:\Users\MR SALVATORY\Desktop\playermgs\src\main\java\com\playermgs\Main.java
